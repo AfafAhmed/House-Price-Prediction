@@ -1,4 +1,4 @@
-rom collections import namedtuple
+from collections import namedtuple
 from datetime import datetime
 import uuid
 from housing.config.configuration import Configuartion
